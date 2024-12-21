@@ -56,7 +56,7 @@
 
 # Background and Overview
 
-As a Data Analyst at Starlight General Hospital, I collaborated with the management and clinical teams to design a comprehensive dashboard aimed at enhancing decision-making across key areas of hospital operations. Starlight General Hospital is a 500-bed facility dedicated to delivering high-quality healthcare services while ensuring operational efficiency and staff optimization. This dashboard was developed to provide a data-driven approach to monitoring and improving patient care, safety, and staff performance.
+As a Data Analyst at Starlight General Hospital, I collaborated with the management and clinical teams to design a comprehensive dashboard aimed at enhancing decision-making across key areas of hospital operations. Starlight General Hospital is a 250-bed facility dedicated to delivering high-quality healthcare services while ensuring operational efficiency and staff optimization. This dashboard was developed to provide a data-driven approach to monitoring and improving patient care, safety, and staff performance.
 
 ## The primary goals of this project were to:
 - Analyze and visualize patient management metrics to monitor admissions, readmission rates, and demographic trends.
