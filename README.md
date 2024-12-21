@@ -1,3 +1,59 @@
+# Table of Contents
+
+1. [Background and Overview](#background-and-overview)
+   - [Project Goals](#the-primary-goals-of-this-project-were)
+   - [Dashboard Structure](#dashboard-structure)
+
+2. [Data Structure Overview](#data-structure-overview)
+   - [Entity Relationship Diagram (ERD)](#entity-relationship-diagram-erd)
+   - [Data Domain and Key Data Points](#data-domain-and-key-data-points)
+   - [Table Descriptions and Relationships](#table-descriptions-and-relationships)
+      - [Bed_Occupancy](#bed_occupancy)
+      - [Patients_Data](#patients_data)
+      - [Admissions_Data](#admissions_data)
+      - [Satisfaction_Data](#satisfaction_data)
+      - [Safety_And_Compliance](#safety_and_compliance)
+      - [Staff_Data](#staff_data)
+      - [Utilization_Data](#utilization_data)
+
+3. [Executive Summary](#executive-summary)
+
+4. [Insights Deep Dive](#insights-deep-dive)
+   - [Patient Management and Overview](#patient-management-and-overview)
+      - [Admission Volume and Trends](#1-admission-volume-and-trends)
+      - [Bed Occupancy Metrics](#2-bed-occupancy-metrics)
+      - [Admission Type Distribution](#3-admission-type-distribution)
+      - [Age Group Distribution](#4-age-group-distribution)
+      - [Readmission Rates](#5-readmission-rates)
+   - [Healthcare Quality Metrics](#healthcare-quality-metrics)
+      - [Patient Safety Incidents](#1-patient-safety-incidents)
+      - [Patient Satisfaction and Feedback](#2-patient-satisfaction-and-feedback)
+      - [Infection Control](#3-infection-control)
+   - [Staff Performance and Utilization](#staff-performance-and-utilization)
+      - [Workforce Distribution](#1-workforce-distribution)
+      - [Staff-to-Patient Ratios](#2-staff-to-patient-ratios)
+      - [Overtime and Absenteeism](#3-overtime-and-absenteeism)
+
+5. [Key Findings](#key-findings)
+   - [Patient Management and Overview](#patient-management-and-overview-1)
+   - [Healthcare Quality Metrics](#healthcare-quality-metrics-1)
+   - [Staff Performance and Utilization](#staff-performance-and-utilization-1)
+
+6. [Recommendations](#recommendations)
+   - [Patient Management and Overview](#patient-management-and-overview-2)
+      - [Enhance Admission Flow Management](#1-enhance-admission-flow-management)
+      - [Targeted Improvement in Bed Utilization](#2-targeted-improvement-in-bed-utilization)
+      - [Focused Outreach for Age Groups](#3-focused-outreach-for-age-groups)
+      - [Minimize Readmissions](#4-minimize-readmissions)
+   - [Healthcare Quality Metrics](#healthcare-quality-metrics-2)
+      - [Address Patient Safety Concerns](#1-address-patient-safety-concerns)
+      - [Revitalize Patient Satisfaction Initiatives](#2-revitalize-patient-satisfaction-initiatives)
+      - [Strengthen Feedback Mechanisms](#3-strengthen-feedback-mechanisms)
+   - [Staff Performance and Utilization](#staff-performance-and-utilization-2)
+      - [Optimize Staffing Levels](#1-optimize-staffing-levels)
+      - [Reduce Overtime and Absenteeism](#2-reduce-overtime-and-absenteeism)
+
+
 # Background and Overview
 
 As a Data Analyst at Starlight General Hospital, I collaborated with the management and clinical teams to design a comprehensive dashboard aimed at enhancing decision-making across key areas of hospital operations. Starlight General Hospital is a 500-bed facility dedicated to delivering high-quality healthcare services while ensuring operational efficiency and staff optimization. This dashboard was developed to provide a data-driven approach to monitoring and improving patient care, safety, and staff performance.
@@ -300,5 +356,5 @@ To address the fluctuations in admission volumes observed in 2024, the hospital 
 ### **3. Sample Size Concerns**
 - Certain segments, like the adolescent group (13-17 years), had smaller sample sizes, limiting the reliability of trends or insights derived for these categories.
 
-### **4. Real-World Data Challenges**
+### **4. Data Challenges**
 - Acknowledging that real-world datasets are often imperfect, the findings should be interpreted with caution and validated against additional data or future trends.
