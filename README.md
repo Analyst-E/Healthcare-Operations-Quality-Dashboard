@@ -9,8 +9,13 @@ As a Data Analyst at Starlight General Hospital, I collaborated with the managem
 
 The dashboard is structured into three interconnected pages, each addressing a specific aspect of hospital operations:
 - **Patient Management Overview**: Provides insights into patient inflow, demographics, and the efficiency of bed occupancy and admissions.
+![image](https://github.com/user-attachments/assets/de7beba8-0789-45af-8b6a-32df23388d3e)
+
 - **Healthcare Quality Metrics**: Tracks healthcare delivery quality by monitoring incidents, protocol adherence, and patient satisfaction scores.
+![image](https://github.com/user-attachments/assets/82637d1f-c793-4e73-abcc-ca48ddc6cacd)
+
 - **Staff Performance and Utilization**: Evaluates staff productivity, absenteeism, and the relationship between staffing levels and patient outcomes.
+![image](https://github.com/user-attachments/assets/94beb116-a6ea-4cb3-8c25-e0a6354b9502)
 
 By utilizing this dashboard, Starlight General Hospital stakeholders can make informed decisions to optimize resources, improve patient outcomes, and ensure the highest standards of care.
 
@@ -65,6 +70,7 @@ These data points are universally applicable and provide a strong foundation for
 ## **PATIENT MANAGEMENT AND OVERVIEW**
 
 ### **1. Admission Volume and Trends**
+![image](https://github.com/user-attachments/assets/37fd35c0-ba41-45c8-9773-72019403e319)
 - **Total Admissions**: Increased to **982** in 2024 from **841** in 2023, representing a **14.4% growth**.
 - **Peak Admission Months**:
   - 2024: March saw a peak with **135 admissions**.
@@ -74,6 +80,8 @@ These data points are universally applicable and provide a strong foundation for
   - 2024: Showed wider fluctuations, ranging from **74 to 135 admissions**.
 
 ### **2. Bed Occupancy Metrics**
+![image](https://github.com/user-attachments/assets/6cd0b982-c754-4eab-9436-75785630dd49)
+
 - **Overall Bed Occupancy Rate**:
   - 2024: **65.63%**
   - 2023: **64.62%**
@@ -86,6 +94,8 @@ These data points are universally applicable and provide a strong foundation for
   - Surgery: **8.00%** (down from **10.00%**, -2.00%).
 
 ### **3. Admission Type Distribution**
+![image](https://github.com/user-attachments/assets/90459b6d-d80f-4fa3-aae0-a651c87e19ad)
+
 - **2024**:
   - Inpatient: **676 admissions** (**68.94%**).
   - Outpatient: **306 admissions** (**31.16%**).
@@ -95,12 +105,16 @@ These data points are universally applicable and provide a strong foundation for
 - **Insight**: Shift towards more inpatient admissions in 2024.
 
 ### **4. Age Group Distribution**
+![image](https://github.com/user-attachments/assets/6c4cde83-1bdd-4501-ab07-4420fd9c2be5)
+
 - **65+ years**: Increased to **250** patients (up by **19%**).
 - **50-64 years**: Increased to **236** patients (up by **20%**).
 - **18-34 years**: Increased to **238** patients (up by **38%**).
 - **Other Groups**: Slight changes in younger age groups, with a decline in ages 13-17.
 
 ### **5. Readmission Rates**
+![image](https://github.com/user-attachments/assets/d9b35314-853f-4762-a129-6721e902ff46)
+
 - **Overall**:
   - 2024: **15.68%**
   - 2023: **16.53%**
@@ -113,6 +127,7 @@ These data points are universally applicable and provide a strong foundation for
 ---
 
 ## **HEALTHCARE QUALITY METRICS**
+![image](https://github.com/user-attachments/assets/8eb474bd-c24e-469f-b3f4-6978c33acb41)
 
 ### **1. Patient Safety Incidents**
 - **Total Incidents Reported**:
@@ -158,6 +173,8 @@ These data points are universally applicable and provide a strong foundation for
   - Nurses: **14%**.
 - **Correlation**:
   - Strong link between overtime and absenteeism, especially for doctors (**0.88 correlation coefficient**).
+  ![image](https://github.com/user-attachments/assets/0d196316-0a5b-4637-acf3-e01525875618)
+
  
 # Key Findings
 
