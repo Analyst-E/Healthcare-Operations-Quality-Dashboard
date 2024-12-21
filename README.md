@@ -272,3 +272,16 @@ To address the fluctuations in admission volumes observed in 2024, the hospital 
 - Establish a quality improvement task force to identify and address underperforming areas.
 - Regularly review the impact of implemented strategies to ensure long-term success.
 
+# Caveats and Assumptions (Bonus Section)
+
+### **1. Data Limitations**
+- The analysis relies on the assumption that all recorded data is accurate and complete. However, inconsistencies or errors in data entry may impact findings. 
+
+### **2. Missing or Nonsensical Data**
+- Some patient records had missing demographic details or nonsensical values (e.g., negative age), which were excluded from the analysis, potentially skewing results.
+
+### **3. Sample Size Concerns**
+- Certain segments, like the adolescent group (13-17 years), had smaller sample sizes, limiting the reliability of trends or insights derived for these categories.
+
+### **4. Real-World Data Challenges**
+- Acknowledging that real-world datasets are often imperfect, the findings should be interpreted with caution and validated against additional data or future trends.
